@@ -17,7 +17,7 @@
 - 🤝 Active in **Open Source** contributions  
 - 📚 Exploring **Problem Solving, and AI integrations with MERN**  
 - ⚡ Fun fact: **I code best with chai and a good playlist! ☕🎶**
-- 📄 **Resume:** [View Resume](https://drive.google.com/file/d/1DybdVOIlnK2cXhWK_kffmbUWMJik7PwO/view)
+- 📄 **Resume:** [View Resume](https://drive.google.com/file/d/1aQIoQdCJbY0Qkpw2dTKeUN-NjeNrq1-S/view?usp=drivesdk)
 - 🌐 **Portfolio:** [Visit Portfolio](https://portfolio-frontend-kmoh.onrender.com)
 
 
@@ -104,7 +104,7 @@
 
 <h3 align="left">🔥   My Stats :</h3>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Dhanush18100&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=dhanush-devv&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 
@@ -118,10 +118,11 @@
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40" />
   </a>
   <img width="12" /> 
-  <a href="https://github.com/dhanush18100" target="blank">
+  <a href="https://github.com/dhanush-devv" target="blank">
     <img align="center" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github" height="40" width="40" style="filter: invert(1);" />
   </a>
 </p>
+
 
 
 
