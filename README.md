@@ -12,8 +12,8 @@
 
 
 ## 🔥 About Me  
-- 🔭 Currently working on **MERN Projects**  
-- 👯 Open to collaborate on **FullStack / AI + MERN projects**  
+- 🔭 Currently working on **MERN Projects** & **Data Analytics**  
+- 👯 Open to collaborate on **FullStack / AI + MERN projects** 
 - 🤝 Active in **Open Source** contributions  
 - 📚 Exploring **Problem Solving, and AI integrations with MERN**  
 - ⚡ Fun fact: **I code best with chai and a good playlist! ☕🎶**
@@ -102,6 +102,9 @@
 </a>
 <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+</a>
+<a href="https://www.tableau.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
 </a>
 
 
