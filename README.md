@@ -4,9 +4,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Dhanush&fontAlign=50&fontAlignY=40&color=gradient" />
 </p>
 
-Final-year ISE student | MERN Stack Developer | Data Analytics Enthusiast | 
-Building scalable web apps & extracting insights from data  | 🧿
-
 <h2 align="center">🚀 Information Science & Engineering Student | A passionate Full Stack Developer </h2>
 
 
