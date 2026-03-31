@@ -1,4 +1,4 @@
-<!-- <p align="center">
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Dhanush&fontAlign=50&fontAlignY=40&color=gradient" />
 </p>
 
@@ -141,4 +141,3 @@
   </a>
 </p>
 
- -->
