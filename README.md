@@ -17,7 +17,7 @@
 - 🤝 Active in **Open Source** contributions  
 - 📚 Exploring **Problem Solving, and AI integrations with MERN**  
 - ⚡ Fun fact: **I code best with chai and a good playlist! ☕🎶**
-- 📄 **Resume:** [View Resume](https://drive.google.com/file/d/1aQIoQdCJbY0Qkpw2dTKeUN-NjeNrq1-S/view?usp=drivesdk)
+- 📄 **Resume:** [View Resume](https://drive.google.com/file/d/11fr5TZ0VtJvQHj2rdYA0BLijFQQD540P/view?usp=drivesdk)
 - 🌐 **Portfolio:** [Visit Portfolio](https://portfolio-frontend-kmoh.onrender.com)
 
 
