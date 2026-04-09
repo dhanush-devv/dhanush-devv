@@ -91,6 +91,9 @@
 <a href="https://www.mysql.com/" target="_blank">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </a>
+<a href="https://socket.io/" target="_blank">
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
+</a>
 <a href="https://render.com" target="_blank">
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
 </a>
