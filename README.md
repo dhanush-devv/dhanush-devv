@@ -3,7 +3,7 @@
 </p>
 
 
-<h2 align="center">🚀 Information Science & Engineering Student | A passionate Full Stack Developer </h2>
+<h2 align="center">🚀 Information Science & Engineering Student | A passionate Full Stack Developer | Data Analyst </h2>
 
 
 <p align="center">
