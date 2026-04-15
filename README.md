@@ -1,4 +1,4 @@
-<!-- <p align="center">
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Dhanush&fontAlign=50&fontAlignY=40&color=gradient" />
 </p>
 
@@ -143,4 +143,3 @@
     <img align="center" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github" height="40" width="40" style="filter: invert(1);" />
   </a>
 </p>
-  -->
